@@ -13,8 +13,11 @@ korisnickog interfejsa.
 
 
 GLAVNE CELINE:
+
 -implementacija osnovnih klasa i metoda (SVI)*
+
 -graficki korisnicki interfejs			(PRVI PAR)*
+
 -podrska za igru preko mreze			(DRUGI PAR)*
 
 *izmene po potrebi
